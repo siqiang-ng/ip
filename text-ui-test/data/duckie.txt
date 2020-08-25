@@ -1,0 +1,3 @@
+T | 0 | borrow books
+E | 1 | Homecoming | 5th Aug 2-4pm
+D | 0 | quiz | Monday
